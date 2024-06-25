@@ -1,2 +1,2 @@
-alpine
 hagb/docker-easyconnect:7.6.3
+rustdesk/rustdesk-server:latest
