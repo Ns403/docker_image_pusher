@@ -1,2 +1,3 @@
 hagb/docker-easyconnect:7.6.3
 rustdesk/rustdesk-server:latest
+onisuly/aria2-with-webui
