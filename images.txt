@@ -3,3 +3,4 @@ rustdesk/rustdesk-server:latest
 onisuly/aria2-with-webui
 lscr.io/linuxserver/qbittorrent:latest
 redis:7.0.5
+homeassistant/home-assistant:latest
